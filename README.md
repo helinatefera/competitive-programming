@@ -1,4 +1,4 @@
-# [A2SV](https://a2sv.org) - Competitive Programming
+# [Competitive Programming]
 <p align="left">
   <img src="https://img.shields.io/badge/Problem Solved-10-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Total%20Tries-17-red?style=for-the-badge" />
